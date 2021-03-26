@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Vladimir! 👋
+
+💬 Ask me about anything [here](https://github.com/cageyv/cageyv/issues)
+
+![Vladimirs's github stats](https://github-readme-stats.vercel.app/api?username=cageyv&show_icons=true&theme=radical)
 
 <!--
 **cageyv/cageyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
